@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "JSON_WEB_TOKEN",
+  "db": "mongodb://localhost:27017/your-db-name"
+}

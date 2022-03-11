@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "ENV_JWT_PRIVATE",
+    "db": "ENV_DATABASE"
+}
